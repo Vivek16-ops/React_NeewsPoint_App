@@ -1,7 +1,20 @@
-# Getting Started with Create React App
+# NewsPoint - React-News_Application
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Overview
+This is a responsive React News App built using the News API. The app provides news articles from various categories, including sports, technology, health, science, entertainment, general, and more. It comes with additional functionalities like a top loading bar and infinite scrolling to enhance the user experience.
 
+## Features
+* __Categories:__ Explore news articles across diverse categories, such as sports, technology, health, science, entertainment, general, and more.
+* __Top Loading Bar:__ A sleek and responsive top loading bar provides visual feedback to users when fetching new articles or loading more content.
+* __Infinite Scrolling:__ Enjoy a seamless browsing experience with infinite scrolling. As you reach the bottom of the page, new articles will automatically load, eliminating the need for manual pagination.
+
+## Technologies Used
+* __React:__The app is built using the React library, enabling the creation of a dynamic and efficient user interface.
+* __News API:__ The app fetches real-time news data from the News API, allowing users to access up-to-date and relevant information.
+
+## Note: 
+Due to limitations on free API requests, News API key usage is restricted to the localhost system only. If you encounter issues accessing the News API from your local machine, consider deploying the app to a hosting service to use the API key effectively.
+  
 ## Available Scripts
 
 In the project directory, you can run:
@@ -35,36 +48,18 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Glimpse of Application
+![first](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/23d912f6-8a4a-4a41-ab38-0e9e86f8fd41)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+![second](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/5493961e-4ff1-4b5c-ac3f-48d123344078)
 
-## Learn More
+![third](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/58818432-2c82-41f0-8c08-88a29f576098)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+![fourth](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/1ba76761-273f-4c94-850d-bc34aee41191)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+![fifth](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/b98ff12a-2ad7-4bea-b2a1-df974735a764)
 
-### Code Splitting
+![sixth](https://github.com/Vivek16-ops/React_NeewsPoint_App/assets/78420856/041381aa-4782-401b-afa7-983ec9560a01)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
