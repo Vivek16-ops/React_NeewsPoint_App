@@ -12,8 +12,13 @@ This is a responsive React News App built using the News API. The app provides n
 * __React:__The app is built using the React library, enabling the creation of a dynamic and efficient user interface.
 * __News API:__ The app fetches real-time news data from the News API, allowing users to access up-to-date and relevant information.
 
-## Note: 
-Due to limitations on free API requests, News API key usage is restricted to the localhost system only. If you encounter issues accessing the News API from your local machine, consider deploying the app to your own local host system to use the API key effectively.
+## ⚠️ Important Notice for NewsPoint Users:
+
+🌐 To ensure a smooth experience, please be aware of a limitation on free API requests. The News API key usage is currently restricted to the localhost system only.
+
+🖥️ If you encounter any issues accessing the News API from your local machine, we recommend deploying the app to your own local host system. This will enable you to use the API key effectively and enjoy uninterrupted access to real-time news data.
+
+Thank you for your understanding!
   
 ## Available Scripts
 
